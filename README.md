@@ -37,8 +37,6 @@ Open-source front-end or full-stack projects, particularly those with a focus on
 - 💼 [LinkedIn](https://www.linkedin.com/in/georgenyagura/)  
 - 🌐 [GitHub](https://github.com/NumNine9)
 
-## 😄 Pronouns: He/Him
-
 ## ⚡ Fun fact
 Before diving into code, I often warm up with a game of table tennis or sketch a character for my next animation concept 🎨🏓
 
